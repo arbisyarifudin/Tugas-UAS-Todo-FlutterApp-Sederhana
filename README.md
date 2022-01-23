@@ -2,7 +2,6 @@
 
 ## UAS Mobile Programming
 Oleh: Arbi Syarifudin (12181630)
-m
 ___
 
 ## Hasil :
